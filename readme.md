@@ -1,6 +1,6 @@
 # bsc
 
-[![npm](https://img.shields.io/npm/v/bsc.svg?style=flat-square)](https://www.npmjs.com/package/bsc) [![tests](https://img.shields.io/travis/deepsweet/bsc/master.svg?label=tests&style=flat-square)](https://travis-ci.org/deepsweet/bsc) [![coverage](https://img.shields.io/codecov/c/github/deepsweet/bsc.svg?style=flat-square)](https://codecov.io/github/deepsweet/bsc)
+[![npm](https://img.shields.io/npm/v/bsc.svg?style=flat-square)](https://www.npmjs.com/package/bsc) [![tests](https://img.shields.io/travis/deepsweet/bsc/master.svg?label=tests&style=flat-square)](https://travis-ci.org/deepsweet/bsc) [![coverage](https://img.shields.io/codecov/c/github/deepsweet/bsc.svg?style=flat-square)](https://codecov.io/github/deepsweet/bsc) [![Greenkeeper badge](https://badges.greenkeeper.io/deepsweet/bsc.svg)](https://greenkeeper.io/)
 
 Binary search with comparator.
 
